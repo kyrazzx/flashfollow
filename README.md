@@ -49,7 +49,7 @@ Save this file, for example, as `accounts.csv`.
    ```
 3. Run the script:
    ```bash
-   python bulk_follow.py
+   python main.py
    ```
 4. Follow the on-screen instructions:
    - Enter the target username to follow.
